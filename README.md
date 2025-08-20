@@ -32,5 +32,5 @@
      <li><a href="">Honor Society Eligible</a></li>
   </ol>
 </ul>
-<a href="[.Resume/README.md](https://github.com/AmberKRodriguez/Resume)">RESUME</a>
+<a href="Resume Page/Resume.html">RESUME</a>
 
