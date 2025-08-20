@@ -7,7 +7,7 @@
   <li>JAVA</li>
   <ol>
     <li><a href="">Road Trip Cost Estimator</a> </li>
-    <li><a href="">Time Intervals Tester</a></li>
+    <li><a href="https://github.com/AmberKRodriguez/TimeIntervalCheck/tree/main">Time Intervals Tester</a></li>
      <li><a href="">Honor Society Eligible</a></li>
   </ol>
   <li>PHP</li>
