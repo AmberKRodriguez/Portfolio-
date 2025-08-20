@@ -1,8 +1,4 @@
 
-<link rel="" href="">
-<img src="Resume Page/Amber.jpeg" height="300"/>
-</div>
-<body>
 
 <h1>Hello, My name is Amber!</h1>
 
