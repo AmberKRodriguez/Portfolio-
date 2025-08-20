@@ -32,4 +32,5 @@
      <li><a href="">Honor Society Eligible</a></li>
   </ol>
 </ul>
+<a href="RESUMES/myresume">RESUME</a>
 
