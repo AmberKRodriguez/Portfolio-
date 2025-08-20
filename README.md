@@ -1,6 +1,7 @@
- 
-<img src="Resume Page/Amber.jpeg"/>
 
+<link rel="" href="">
+<img src="Resume Page/Amber.jpeg"/>
+</div>
 <body>
 
 <h1>Hello, My name is Amber!</h1>
