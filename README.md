@@ -1,6 +1,6 @@
 
 <link rel="" href="">
-<img src="Resume Page/Amber.jpeg"/>
+<img src="Resume Page/Amber.jpeg" height="300"/>
 </div>
 <body>
 
