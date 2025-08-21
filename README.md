@@ -7,7 +7,7 @@
   <li>JAVA</li>
   <ol>
     <li><a href="https://github.com/AmberKRodriguez/RoadTripCostEstimator">Road Trip Cost Estimator</a> </li>
-    <li><a href="https://github.com/AmberKRodriguez/TimeIntervalCheck/tree/main">Time Intervals Tester</a></li>
+    <li><a href="https://amberkrodriguez.github.io/TimeIntervalCheck/">Time Intervals Tester</a></li>
      <li><a href="https://github.com/AmberKRodriguez/HonorSocietyEligible">Honor Society Eligible</a></li>
     <li><a href="">Quiz Application</a></li>
   </ol>
