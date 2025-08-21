@@ -32,4 +32,4 @@
 </ul>
 
 
-<a href="https://github.com/AmberKRodriguez/ResumePage">RESUME</a>
+<a href="https://amberkrodriguez.github.io/ResumePage/">RESUME</a>
