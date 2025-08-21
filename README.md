@@ -1,6 +1,6 @@
 
 
-<h1>Hello, My name is Amber!</h1>
+<h1>Hello, My name is Amber!</h1> 
 
 <h2>My Software Development Project:</h2>
 <ul>
@@ -30,5 +30,6 @@
      <li><a href=""></a></li>
   </ol>
 </ul>
-<a href="https://github.com/AmberKRodriguez/ResumePage">RESUME</a>
 
+
+<a href="https://github.com/AmberKRodriguez/ResumePage">RESUME</a>
