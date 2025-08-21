@@ -2,33 +2,36 @@
 
 <h1>Hello, My name is Amber!</h1> 
 
-<h2>My Software Development Project:</h2>
+<h2>My Software Development Projects:</h2>
 <ul>
   <li>JAVA</li>
-  <ol>
+  <ul>
     <li><a href="https://amberkrodriguez.github.io/RoadTripCostEstimator/">Road Trip Cost Estimator</a> </li>
     <li><a href="https://amberkrodriguez.github.io/TimeIntervalCheck/">Time Intervals Tester</a></li>
      <li><a href="https://github.com/AmberKRodriguez/HonorSocietyEligible">Honor Society Eligible</a></li>
-    <li><a href="">Quiz Application</a></li>
-  </ol>
+    <li><a href="">Quiz Application</a> - Inprogress</li> 
+  </ul>
+  <br>
   <li>PHP</li>
-  <ol>
-    <li><a href="">Course Registration</a> </li>
-    <li><a href="">Product Catalog</a></li>
-     <li><a href="">Contact Form</a></li>
-  </ol>
-  <li>JavaScript</li>
-  <ol>
+  <ul>
+    <li><a href="">Course Registration</a> - To be added</li>
+    <li><a href="">Product Catalog</a> - To be added</li>
+     <li><a href="">Contact Form</a> - To be added</li>
+  </ul>
+  <br>
+  <li>JavaScript - To be added</li>
+  <ul>
     <li><a href=""></a> </li>
     <li><a href=""></a></li>
      <li><a href=""></a></li>
-  </ol>
-  <li>CSS</li>
-  <ol>
+  </ul>
+  <br>
+  <li>CSS - To be added</li>
+  <ul>
     <li><a href=""></a> </li>
     <li><a href=""></a></li>
      <li><a href=""></a></li>
-  </ol>
+  </ul>
 </ul>
 
 
