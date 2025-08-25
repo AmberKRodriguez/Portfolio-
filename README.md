@@ -34,7 +34,7 @@
   </ul>
   <li>Kotlin - To be added</li>
   <ul>
-    <li><a href=""></a>Dice Rolling App</li>
+    <li><a href=""></a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
   </ul>
