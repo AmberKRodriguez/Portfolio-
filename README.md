@@ -8,7 +8,7 @@
   <ul>
     <li><a href="https://amberkrodriguez.github.io/RoadTripCostEstimator/">Road Trip Cost Estimator</a> </li>
     <li><a href="https://amberkrodriguez.github.io/TimeIntervalCheck/">Time Intervals Tester</a></li>
-     <li><a href="https://github.com/AmberKRodriguez/HonorSocietyEligible">Honor Society Eligible</a></li>
+    <li><a href="https://github.com/AmberKRodriguez/HonorSocietyEligible">Honor Society Eligible</a></li>
     <li><a href="">Quiz Application</a> - Inprogress</li> 
   </ul>
   <br>
@@ -16,21 +16,27 @@
   <ul>
     <li><a href="">Course Registration</a> - To be added</li>
     <li><a href="">Product Catalog</a> - To be added</li>
-     <li><a href="">Contact Form</a> - To be added</li>
+    <li><a href="">Contact Form</a> - To be added</li>
   </ul>
   <br>
   <li>JavaScript - To be added</li>
   <ul>
     <li><a href=""></a> </li>
     <li><a href=""></a></li>
-     <li><a href=""></a></li>
+    <li><a href=""></a></li>
   </ul>
   <br>
   <li>CSS - To be added</li>
   <ul>
     <li><a href=""></a> </li>
     <li><a href=""></a></li>
-     <li><a href=""></a></li>
+    <li><a href=""></a></li>
+  </ul>
+  <li>Kotlin - To be added</li>
+  <ul>
+    <li><a href=""></a>Dice Rolling App</li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
   </ul>
 </ul>
 
