@@ -34,7 +34,7 @@
   </ul>
   <li>Kotlin - To be added</li>
   <ul>
-    <li><a href=""></a></li>
+    <li><a href="https://amberkrodriguez.github.io/Tip-Calculator-App/">Tip Calculator App</a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
   </ul>
