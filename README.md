@@ -1,4 +1,5 @@
 
+<br> <a href="https://github.com/AmberKRodriguez">MY GITHUB</a>
 
 <h1>Hello, My name is Amber!</h1> 
 
@@ -35,4 +36,4 @@
 
 
 <a href="https://amberkrodriguez.github.io/ResumePage/">RESUME</a>
-<a href="https://github.com/AmberKRodriguez">MAIN PAGE</a>
+
