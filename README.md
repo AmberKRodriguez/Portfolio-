@@ -1,5 +1,5 @@
 
-<br> <a href="https://github.com/AmberKRodriguez">MY GITHUB</a>
+<br> <a href="https://github.com/AmberKRodriguez">Main Page</a>
 
 <h1>Hello, My name is Amber!</h1> 
 
