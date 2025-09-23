@@ -7,10 +7,10 @@
 <ul>
   <li>JAVA</li>
   <ul>
-    <li><a href="https://amberkrodriguez.github.io/RoadTripCostEstimator/">Road Trip Cost Estimator</a> </li>
-    <li><a href="https://amberkrodriguez.github.io/TimeIntervalCheck/">Time Intervals Tester</a></li>
+    <li><a href="https://amberkrodriguez.github.io/RoadTripCostEstimator/">Road Trip Cost Estimator Program</a> </li>
+    <li><a href="https://amberkrodriguez.github.io/TimeIntervalCheck/">Time Interval Java Program</a></li>
     <li><a href="https://github.com/AmberKRodriguez/HonorSocietyEligible">Honor Society Eligible</a></li>
-    <li><a href="">Quiz Application</a> - Inprogress</li> 
+    <li></li> 
   </ul>
   <br>
   <li>PHP & JavaScript</li>
@@ -26,7 +26,7 @@
     <li><a href=""></a></li>
     <li><a href=""></a></li>
   </ul>
-  <li>Kotlin - To be added</li>
+  <li>Kotlin</li>
   <ul>
     <li><a href="https://amberkrodriguez.github.io/Tip-Calculator-App/">Tip Calculator Mobile Application</a></li>
     <li><a href="https://amberkrodriguez.github.io/Student-Portal-/">Application Navigation</a></li>
