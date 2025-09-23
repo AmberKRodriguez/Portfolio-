@@ -16,7 +16,7 @@
   <li>PHP & JavaScript</li>
   <ul>
     <li><a href="https://amberkrodriguez.github.io/CourseRegistration/">Course Registration</a></li>
-    <li><a href="">Product Catalog</a> - To be added</li>
+    <li><a href="https://amberkrodriguez.github.io/JavaScript-PHP-Validations-/">JavaScript/PHP Validations</a></li>
     <li><a href="">Contact Form</a> - To be added</li>
   </ul>
   <br>
