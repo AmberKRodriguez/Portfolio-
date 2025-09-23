@@ -9,7 +9,7 @@
   <ul>
     <li><a href="https://amberkrodriguez.github.io/RoadTripCostEstimator/">Road Trip Cost Estimator Program</a> </li>
     <li><a href="https://amberkrodriguez.github.io/TimeIntervalCheck/">Time Interval Java Program</a></li>
-    <li><a href="https://github.com/AmberKRodriguez/HonorSocietyEligible">Honor Society Eligible</a></li>
+    <li></li>
     <li></li> 
   </ul>
   <br>
