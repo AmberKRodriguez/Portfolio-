@@ -15,7 +15,7 @@
   <br>
   <li>PHP & JavaScript</li>
   <ul>
-    <li><a href="https://amberkrodriguez.github.io/CourseRegistration/">Course Registration</a></li>
+    <li><a href="https://amberkrodriguez.github.io/Display-Course-Records-PHP-SQL/">Display Course Records PHP/SQL</a></li>
     <li><a href="https://amberkrodriguez.github.io/JavaScript-PHP-Validations-/">JavaScript/PHP Validations</a></li>
     <li><a href="https://amberkrodriguez.github.io/Manipulate-JavaScript-Array/">Manipulate JavaScript Array</a></li>
   </ul>
