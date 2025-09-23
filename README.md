@@ -28,8 +28,8 @@
   </ul>
   <li>Kotlin - To be added</li>
   <ul>
-    <li><a href="https://amberkrodriguez.github.io/Tip-Calculator-App/">Tip Calculator App</a></li>
-    <li><a href="https://amberkrodriguez.github.io/Student-Portal-/">Student Portal App</a></li>
+    <li><a href="https://amberkrodriguez.github.io/Tip-Calculator-App/">Tip Calculator Mobile Application</a></li>
+    <li><a href="https://amberkrodriguez.github.io/Student-Portal-/">Student Portal Mobile Application</a></li>
     <li><a href=""></a></li>
   </ul>
 </ul>
