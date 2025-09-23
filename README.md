@@ -20,7 +20,7 @@
     <li><a href="https://amberkrodriguez.github.io/Manipulate-JavaScript-Array/">Manipulate JavaScript Array</a></li>
   </ul>
   <br>
-  <li>CSS - To be added</li>
+  <li>CSS - The Complete Full-Stack Web Development Bootcamp</li>
   <ul>
     <li><a href=""></a> </li>
     <li><a href=""></a></li>
