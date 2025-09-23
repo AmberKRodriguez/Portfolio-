@@ -23,7 +23,7 @@
   <li>CSS - The Complete Full-Stack Web Development Bootcamp</li>
   <ul>
     <li><a href="https://amberkrodriguez.github.io/Flag-of-Laos/">Flag of Laos</a></li>
-    <li><a href=""></a></li>
+    <li><a href="https://amberkrodriguez.github.io/CSS-Web-Project-/"></a>CSS Web Project</li>
     <li><a href=""></a></li>
   </ul>
   <li>Kotlin</li>
