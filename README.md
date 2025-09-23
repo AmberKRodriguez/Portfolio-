@@ -17,7 +17,7 @@
   <ul>
     <li><a href="https://amberkrodriguez.github.io/CourseRegistration/">Course Registration</a></li>
     <li><a href="https://amberkrodriguez.github.io/JavaScript-PHP-Validations-/">JavaScript/PHP Validations</a></li>
-    <li><a href="https://amberkrodriguez.github.io/Manipulate-JavaScript-Array/">Manipulate JavaScript Array</a>/li>
+    <li><a href="https://amberkrodriguez.github.io/Manipulate-JavaScript-Array/">Manipulate JavaScript Array</a></li>
   </ul>
   <br>
   <li>CSS - To be added</li>
