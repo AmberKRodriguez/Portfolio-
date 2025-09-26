@@ -9,8 +9,7 @@
   <ul>
     <li><a href="https://amberkrodriguez.github.io/RoadTripCostEstimator/">Road Trip Cost Estimator Program</a> </li>
     <li><a href="https://amberkrodriguez.github.io/TimeIntervalCheck/">Time Interval Java Program</a></li>
-    <li></li>
-    <li></li> 
+
   </ul>
   <br>
   <li>PHP & JavaScript</li>
@@ -24,13 +23,12 @@
   <ul>
     <li><a href="https://amberkrodriguez.github.io/Flag-of-Laos/">Flag of Laos</a></li>
     <li><a href="https://amberkrodriguez.github.io/CSS-Web-Project-/">CSS Web Project</a></li>
-    <li><a href=""></a></li>
   </ul>
   <li>Kotlin</li>
   <ul>
     <li><a href="https://amberkrodriguez.github.io/Tip-Calculator-App/">Tip Calculator Mobile Application</a></li>
     <li><a href="https://amberkrodriguez.github.io/Student-Portal-/">Application Navigation</a></li>
-    <li><a href=""></a></li>
+  
   </ul>
    <br>
 <li>UI Design, Wireframes, Prototyping</li>
