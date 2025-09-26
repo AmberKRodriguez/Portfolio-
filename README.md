@@ -18,18 +18,21 @@
     <li><a href="https://amberkrodriguez.github.io/JavaScript-PHP-Validations-/">JavaScript/PHP Validations</a></li>
     <li><a href="https://amberkrodriguez.github.io/Manipulate-JavaScript-Array/">Manipulate JavaScript Array</a></li>
   </ul>
+  
   <br>
   <li>CSS</li>
   <ul>
     <li><a href="https://amberkrodriguez.github.io/Flag-of-Laos/">Flag of Laos</a></li>
     <li><a href="https://amberkrodriguez.github.io/CSS-Web-Project-/">CSS Web Project</a></li>
   </ul>
+  
+  <br>
   <li>Kotlin</li>
   <ul>
     <li><a href="https://amberkrodriguez.github.io/Tip-Calculator-App/">Tip Calculator Mobile Application</a></li>
     <li><a href="https://amberkrodriguez.github.io/Student-Portal-/">Application Navigation</a></li>
-  
   </ul>
+  
    <br>
 <li>UI Design, Wireframes, Prototyping</li>
     <ul>
