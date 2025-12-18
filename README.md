@@ -42,7 +42,9 @@
 
   <br>
   <li>3D Modeling Projects w/ Blender</li>
- 
+   <ul>
+ <li><a href="https://amberkrodriguez.github.io/Blender_Projects-/">Beginner Projects</a></li>
+  </ul>
 </ul>
 
 
