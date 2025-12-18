@@ -2,6 +2,12 @@
 <br> <a href="https://github.com/AmberKRodriguez">Main Page</a>
 
 <h1>Hello, My name is Amber!</h1> 
+<p> I am currently completing my Bachelor of Science in
+Applied Technology at the University of Maryland Global Campus, with an expected graduation date of May
+2026. Through this program I have gained experience in Java, JavaScript, PHP, HTML, CSS, C#, and MySQL. I
+have developed applications ranging from object-oriented Java programs to full web applications and even
+3D modeling and game development. This academic foundation has fueled my passion for software
+development and strengthened my commitment to growing as a developer.</p>
 
 <h2>My Software Development Projects:</h2>
 <ul>
